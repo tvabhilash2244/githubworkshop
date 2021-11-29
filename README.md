@@ -13,3 +13,12 @@
 [google](https://www.google.com/)
 
 ![taj](https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg)
+
+* fruits
+  * orange
+  * apple
+  * banana
+1. vegetables
+    1. tomato
+    2. carrot
+    3. onion
