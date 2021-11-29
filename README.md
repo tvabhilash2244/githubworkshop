@@ -11,3 +11,5 @@
 ***both bold and italic***
 
 [google](https://www.google.com/)
+
+[taj](https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg)
