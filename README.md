@@ -28,3 +28,12 @@ sno|Name
 1|kiran
 2|reddy
 3|chan
+
+```
+git status
+git add
+git commit
+```
+
+emoji :🎱:
+:🧋:
