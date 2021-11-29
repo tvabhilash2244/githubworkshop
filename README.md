@@ -22,3 +22,9 @@
     1. tomato
     2. carrot
     3. onion
+
+sno|Name
+----|----
+1|kiran
+2|reddy
+3|chan
